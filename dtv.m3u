@@ -215,63 +215,104 @@ https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="TNTSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TNT.png" audio-track="spa" group-title="Entretenimiento", 502 TNT
+#EXTINF:-1 tvg-id="TNTSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TNT.png" audio-track="spa" group-title="Cine", 502 TNT
 http://190.11.130.46/mnp/tnt/output.mpd
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdsmeTJY2mvWtN2F5JoSICxKunTJlivjcEyg&s" audio-track="spa" group-title="Cine", 502 Golden
+http://streamsy.online:2999/korrigan17/25AUFBdqOi/1624
 
+#EXTINF:-1 tvg-logo="https://affiliates.cinesony.com/themes/custom/cinesony_theme/images/sonycine-logo.png" group-title="Cine", 506 Sony Cine
+https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/tracks-v3a1/mono.m3u8
 
-
-#EXTINF:-1 tvg-id="Cinear.ar" tvg-country="AR" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/cine-ar.png" group-title="Entretenimiento", CineAr
-http://190.11.130.46/mnp/cinear/output.mpd
-
-#EXTINF:-1 tvg-id="SpacePanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png" audio-track="spa" group-title="Entretenimiento", Space
-http://190.11.130.46/mnp/space/output.mpd
-
-#EXTINF:-1 tvg-id="CinecanalEast.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinecanal.png" audio-track="spa" group-title="Entretenimiento", Cinecanal
+#EXTINF:-1 tvg-id="CinecanalEast.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinecanal.png" audio-track="spa" group-title="Cine", 507 Cinecanal
 http://190.11.130.46/mnp/cinecanal/output.mpd
 
-
-
-
-#EXTINF:-1 tvg-id="TCMSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TCM.png" audio-track="spa" group-title="Entretenimiento", TCM
-http://190.11.130.46/mnp/tcm/output.mpd
-
-
-
-#EXTINF:-1 tvg-id="ar#cinemax-sur" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinemax.png" audio-track="spa" group-title="Entretenimiento", Cinemax
+#EXTINF:-1 tvg-id="ar#cinemax-sur" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinemax.png" audio-track="spa" group-title="Cine", 509 Cinemax
 http://190.11.130.46/mnp/cinemax/output.mpd
 
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gr5NLZ4T3dJdykoSJzHsVjNwv4aXgcDCm5hitLmG-eOmOhtlieUoTJufQrCRS-jhy74=w240-h480" group-title="Entretenimiento", Kanal D Drama
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Paramount.png" tvg-language="Spanish" group-title="Entretenimiento", Paramount Channel
+#EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Paramount.png" tvg-language="Spanish" group-title="Cine", 510 Paramount Channel
 http://190.11.130.46/mnp/paramount/output.mpd
 
+#EXTINF:-1 tvg-id="Cinear.ar" tvg-country="AR" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/cine-ar.png" group-title="Cine", 512 CineAr
+http://190.11.130.46/mnp/cinear/output.mpd
+
+#EXTINF:-1 tvg-id="SpacePanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png" audio-track="spa" group-title="Cine", 518 Space
+http://190.11.130.46/mnp/space/output.mpd
 
 
 
 
-#EXTINF:-1 tvg-id="Europa.Europa.(EE).ar" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/129-EuropaEuropa.png" group-title="Entretenimiento", Europa Europa
-http://190.11.130.46/mnp/europa/output.mpd
 
-#EXTINF:-1 tvg-id="FilmandArts.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png" group-title="Entretenimiento", Film & Arts HD
-http://190.11.130.46/mnp/filmsarts/output.mpd
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="ar#hbo" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO.png" audio-track="spa" group-title="Premium", 524 HBO
+http://181.209.114.13:8000/play/a06o/index.m3u8
+
+#EXTINF:-1 tvg-id="ar#hbo-2-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO2.png" audio-track="spa" group-title="Premium", 525 HBO 2
+http://181.209.114.13:8000/play/a06q/index.m3u8
+
+#EXTINF:-1 tvg-id="ar#hbo-plus-este" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPlus.png" audio-track="spa" group-title="Premium", 526 HBO Plus
+http://181.209.114.13:8000/play/a06p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/77tiTKhe5p80XL5mgv2GX4/17c2b387b7a33cb13dbd5abbec8fe5ba/Premium_07_HBOSignature.png?fm=webp&q=80" group-title="Premium" , 528 HBO Signature
+http://181.209.114.13:8000/play/a02c/index.m3u8
+
+#EXTINF:-1 tvg-id="ar#hbo-family-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOFamiliy.png" audio-track="spa" group-title="Premium", 534 HBO Family
+http://181.209.114.13:8000/play/a06r/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariano2718/icons/main/HBO%20Mundi.png"group-title="Premium", 540 HBO Mundi
+http://181.209.114.13:8000/play/a02a/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPop.png" audio-track="spa" group-title="Premium", 541 HBO Pop
+http://181.191.140.2:8000/play/a0fu/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOXtreme.png" audio-track="spa" group-title="Premium", 542 HBO Xtreme
+http://181.209.114.13:8000/play/a02b/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6ZzSgskyQeKxH1jVARP4Be/f5e9c9bd641b4b6b524a2677e0f60842/universal-premiere.png?fm=webp&q=80" group-title="Premium" , 571 Universal Premiere
+http://45.5.117.182:8000/play/a0ig/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/60dStMuZCfyo3DqEMD0RFa/aa4713364373db825f7983a2086890b5/universal-cinema.png?fm=webp&q=80" group-title="Premium" , 572 Universal Cinema
+http://45.5.117.182:8000/play/a0jz/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3E162p4ysAkaik0txYYN0k/66dc9be0cc3d18c163e5d9f1f8b97b78/universal-comedy.png?fm=webp&q=80" group-title="Premium" , 573 Universal Comedy
+http://45.170.225.212:48001/play/a038/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3gBoVelP3w7EOJ9cF2AFxL/b7a0f9e1db82041c815a8754ed9abd05/universal-crime.png?fm=webp&q=80" group-title="Premium" , 574 Universal Crime
+http://45.170.225.212:48001/play/a09g/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/26kcx0bBMEXfcFCR7gea7t/1c1b48583ea217a1a21020d12a8e0d3a/universal-reality.png?fm=webp&q=80" group-title="Premium" , 575 Universal Reality
+http://45.170.225.212:48001/play/a037/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -438,26 +479,7 @@ https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ar#hbo" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO.png" audio-track="spa" group-title="Entretenimiento", HBO
-http://181.209.114.13:8000/play/a06o/index.m3u8
 
-#EXTINF:-1 tvg-id="ar#hbo-2-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO2.png" audio-track="spa" group-title="Entretenimiento", HBO 2
-http://181.209.114.13:8000/play/a06q/index.m3u8
-
-#EXTINF:-1 tvg-id="ar#hbo-plus-este" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPlus.png" audio-track="spa" group-title="Entretenimiento", HBO Plus
-http://181.209.114.13:8000/play/a06p/index.m3u8
-
-#EXTINF:-1 tvg-id="ar#hbo-family-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOFamiliy.png" audio-track="spa" group-title="Entretenimiento", HBO Family
-http://181.209.114.13:8000/play/a06r/index.m3u8
-
-#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPop.png" audio-track="spa" group-title="Entretenimiento", HBO Pop
-http://181.191.140.2:8000/play/a0fu/index.m3u8
-
-#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOXtreme.png" audio-track="spa" group-title="Entretenimiento", HBO Xtreme
-http://181.209.114.13:8000/play/a02b/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariano2718/icons/main/HBO%20Mundi.png"group-title="Entretenimiento", HBO Mundi
-http://181.209.114.13:8000/play/a02a/index.m3u8
 
 
 
@@ -527,6 +549,5 @@ http://45.5.117.182:8000/play/a0f1/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/orbe-21.png" group-title="Religioso", ORBE 21 
-https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
+
 
