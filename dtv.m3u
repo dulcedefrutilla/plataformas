@@ -449,6 +449,9 @@ http://190.11.130.46/mnp/discovery/output.mpd
 #EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-AnimalPlanet.png" audio-track="spa" group-title="Culturales", 734 Animal Planet
 http://45.5.117.182:8000/play/a0hu/index.m3u8
 
+#EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTurbo.png" audio-track="spa" group-title="Culturales", 736 Discovery Turbo
+http://190.11.130.46/mnp/dsc_turbo/output.mpd
+
 #EXTINF:-1 tvg-id="TLC.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTLC.png" tvg-description="Cultural" audio-track="spa" group-title="Culturales", 740 Discovery TLC
 http://190.11.130.46/mnp/dsc_tlc/output.mpd
 
@@ -457,6 +460,12 @@ http://190.11.130.46/mnp/history/output.mpd
 
 #EXTINF:-1 tvg-id="History2Panregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-History2.png" audio-track="spa" group-title="Culturales", 744 History 2
 http://bantel-cdn1.iptvperu.tv:1935/cdnygz/History2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmandArts.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png" group-title="Culturales", 746 Film & Arts HD
+http://190.11.130.46/mnp/filmsarts/output.mpd
+
+#EXTINF:-1 tvg-logo="https://www.latina101.com.ar/images/logo.png" group-title="Radio", 981 Latina Radio FM 101.1
+https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
 
 
 
