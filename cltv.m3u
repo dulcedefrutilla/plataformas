@@ -38,7 +38,7 @@ http://190.11.130.46/mnp/c5n/output.mpd
 http://190.11.130.46/mnp/cronica/output.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="Nacionales" , LA NACION
-https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+http://181.209.114.13:8000/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5l4mX6T5S99MoV24ss1vT2/3788b94142ed98b2e3b5fb200fc0acf4/15_informacion_periodistica.png?fm=webp&q=80" group-title="Nacionales", IP
 http://190.11.130.46/mnp/ip/output.mpd
