@@ -391,8 +391,18 @@ http://190.11.130.46/mnp/dxtv/output.mpd
 
 
 
+
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-CNNEsp.png" tvg-language="Spanish" group-title="Noticias", 704 CNN en Español
 http://190.11.130.46/mnp/cnn/output.mpd
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/cnn@2x.png" group-title="Noticias", 705 CNN
+https://rakuten-cnninternational-1-gb.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_cnnchile.png/600px-Logo_cnnchile.png" group-title="Noticias", 706 CNN Chile
+http://187.102.208.83:50000/play/a02y/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_cnnchile.png/600px-Logo_cnnchile.png" group-title="Noticias", 707 24 HORAS
+http://187.102.208.83:50000/play/a02z/index.m3u8
 
 #EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="Noticias", 715 La Nación +
 http://181.209.114.13:8000/play/a01s/index.m3u8
@@ -418,8 +428,14 @@ http://190.11.130.46/mnp/ip/output.mpd
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/4Pdlm_CqA7QH1YapYrh5qEwiwgeg6lSZ1rwaBAL57gPJS3yxzQT3bHLihVRx6Y6-A4LFnGsXJg=s176-c-k-c0x00ffffff-no-rj" group-title="Noticias", 724 CHACRA TV
 https://s8.stweb.tv/chacra/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://intn24.lalr.co/img/post-default.png" group-title="Noticias", 725 NTN 24
+http://181.78.20.119:8002/play/a01l/index.m3u8
+
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/800px-Telemax_Argentina_%282018%29.png" group-title="Noticias", 726 TELEMAX
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="COLOMBIA", 727 Cablenoticias
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="Noticias", 728 RURAL TV
@@ -469,14 +485,38 @@ https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
 
 
 
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKelKSEi9HoRVrZGjbBtgjZpa_KEQo6PyGBQ&s" tvg-language="Spanish" group-title="Internacionales", 770 ANTENA 3
+http://streamsy.online:2999/korrigan17/25AUFBdqOi/564
 
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/rai@2x.png" group-title="Internacionales", 766 RAI
+http://181.209.114.13:8000/play/a02p/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/BBC%20News%20128.png" group-title="Internacionales", 768 BBC News
+http://45.5.116.178:8000/play/a025/index.m3u8
 
 #EXTINF:-1 tvg-id="Deutsche.Welle.TV.Español.(DW-ES).ar" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRXa4spPp-4sq5SEYWTdxp-pclfjHHjFSqrnMbA=s900-c-k-c0x00ffffff-no-rj" tvg-language="Spanish" group-title="Internacionales", 770 DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh_ZxUnopPpN9XXpCMhpq8ocEKpTtFCEgxiQ&s" group-title="Internacionales", 772 CARACOL
+http://181.78.20.119:8002/play/a009/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpSI5D9txUQlXVE0jnNLq48m5QVxeEdBQFJg&s" group-title="Internacionales", 774 TV CHILE
+http://187.102.208.83:50000/play/a05b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5MadD8WPFjcQeZ13wKAcMKz-D4GgKEi3fIQ&s" group-title="Internacionales", 775 RCN
+http://181.78.20.119:8002/play/a01q/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5MadD8WPFjcQeZ13wKAcMKz-D4GgKEi3fIQ&s" group-title="Internacionales", 776 GLOBO
+http://181.78.27.128:8000/play/a068/index.m3u8
+
+
+#EXTINF:-1 tvg-id="NHK.TV" tvg-logo="https://graph.facebook.com/nhkworld/picture?width=200&height=200" group-title="Internacionales" , 782 NHK World Japon
+https://bmcc.nhkworld.jp/live2/index_200k.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1328910145783414785/MKeuNn8V_400x400.jpg" group-title="Internacionales", 790 CGTN ESPAÑOL
 http://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb3gAF8HqqlU0aExOO1wKKyC2CkUnkxeCIFQ&s" group-title="Internacionales", 795 TV PERU
+http://187.102.208.83:50000/play/a06v/index.m3u8
 
 
