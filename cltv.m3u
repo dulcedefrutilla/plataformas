@@ -74,7 +74,7 @@ https://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/HACpPafOQ9Yj5f8T8Ey1Y/fe9b0f454657b8c4812a138c5870239e/12_ClaroSports.png?fm=webp&q=80" group-title="Deportes" , Claro Sports
-https://jmp2.uk/PlutoTV/6320d80a66666000086712d7-alt.m3u8
+http://181.78.105.146:2000/play/a053/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6IbZzov0IsfGwSja8FthCt/cf83d31a80d595a8cd88259bfcf505e1/Canal_-_TyCSports.png?fm=webp&q=80" group-title="Deportes" , TyC Sports
 http://190.11.130.46/mnp/6ym1cI5NULP0gJHuXiaWh5ZRqJO0ZR4T/output.mpd
@@ -239,8 +239,8 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3YoPUcjcrgs25FVGqJd5R2/79f67e8e24034d93ea3093168ac03a63/72_RCNNovelas.png?fm=webp&q=80" group-title="Entretenimiento" , RCN Novelas
 http://45.71.252.16:8000/play/a0ay/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/dxjEQOGHXp4wEckENKXFT/f525dcd5d21914ca2c54cbebabf62cb1/75_CanalClaroHD.png?fm=webp&q=80" group-title="Entretenimiento", CANAL CLARO
-http://45.71.252.16:8000/play/a0b1/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/dxjEQOGHXp4wEckENKXFT/f525dcd5d21914ca2c54cbebabf62cb1/75_CanalClaroHD.png?fm=webp&q=80" group-title="Entretenimiento", Canal Claro
+http://38.43.151.206:8000/play/a05x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/iEmoAG070AQj6Z04qanWm/eb443a668d8bb7ef8cf1c9f49cae701a/73_Pasiones.png?fm=webp&q=80" group-title="Entretenimiento" , Pasiones
 http://45.232.148.101:8000/play/a05p/index.m3u8
@@ -334,7 +334,7 @@ http://181.191.140.2:8000/play/a0ft/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6AxsQaLOHP3xwHmicPTuTF/ff3c5c8494751d34459b466b30640de3/10_Rural.png?fm=webp&q=80" group-title="Varios" , CANAL Rural
 https://streamlovcd1.alsolnet.com/elrural/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/4Pdlm_CqA7QH1YapYrh5qEwiwgeg6lSZ1rwaBAL57gPJS3yxzQT3bHLihVRx6Y6-A4LFnGsXJg=s176-c-k-c0x00ffffff-no-rj" group-title="Varios", CHACRA TV
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/4Pdlm_CqA7QH1YapYrh5qEwiwgeg6lSZ1rwaBAL57gPJS3yxzQT3bHLihVRx6Y6-A4LFnGsXJg=s176-c-k-c0x00ffffff-no-rj" group-title="Varios", Chacra TV
 https://s8.stweb.tv/chacra/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6ON8A9RJLupcBvYnw9uKhN/e2163b8f88b1bcf59259e328a0457698/97_CNNEspanol.png?fm=webp&q=80" group-title="Internacional" , CNN Español 
