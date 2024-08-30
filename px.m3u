@@ -114,7 +114,7 @@ https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5811.m3u8
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63c1ec0e0aa23f984207af82.m3u8
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-646d06c9b09f13b2d8af68d8" tvg-id="5e20b730f2f8d5003d739db7-646d06c9b09f13b2d8af68d8" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1088747e-b11d-466c-b652-ca6b291ceae5/azteca_internacional_white_1500x1000.png" group-title="USA" , Azteca Internacional
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-646d06c9b09f13b2d8af68d8.m3u8
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3995-646d06c9b09f13b2d8af68d8.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=sPAujbzWihJFSWhbqtNe
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60d4eddeb2fdec002c141137" tvg-id="5e20b730f2f8d5003d739db7-60d4eddeb2fdec002c141137" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bb178ccd-7ed9-4091-9476-b1d0fdce75a2/Channel_Logo_dark_1500x1000_.png" group-title="USA" , BABY SHARK TV
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-60d4eddeb2fdec002c141137.m3u8
@@ -1629,7 +1629,7 @@ https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6685abbe59703916799193a7.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-626c1753ffda6789d20a452e" tvg-id="608049aefa2b8ae93c2c3a63-626c1753ffda6789d20a452e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/41babb58-eb00-4a0d-8a5f-094950a5d8f2/James_Roebuck_-_COPDS-PLEX_CH_LOGO_07.png" group-title="Mexico" , COPS
-https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-626c1753ffda6789d20a452e.m3u8
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3995-6477b95b7ba9c0d593859bfc.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=sPAujbzWihJFSWhbqtNe
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-65b14f4752aa31b8f64da062" tvg-id="608049aefa2b8ae93c2c3a63-65b14f4752aa31b8f64da062" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9027051-ccd0-49ce-a246-5e4f89cdfcc8/Logotipo_C6_1500x1000_for_dark_backgrounds_-_James_Stowe.png" group-title="Mexico" , Canal 6 CDMX
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-65b14f4752aa31b8f64da062.m3u8
@@ -1647,7 +1647,7 @@ https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-618ab2f275913b296fbe56dd.m3u8
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6245efe9f137de43897ea1ae.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-60089d97f682a3002c34829d" tvg-id="608049aefa2b8ae93c2c3a63-60089d97f682a3002c34829d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fa402feb-1ae2-48bf-9dda-9c42384a324d/Logo_Euronews_stacked_white_on_spanish_1500x1000wht.png" group-title="Mexico" , Euronews Español
-https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-60089d97f682a3002c34829d.m3u8
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3995-60089d97f682a3002c34829d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=sPAujbzWihJFSWhbqtNe
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6245f06793b402a3d1097787" tvg-id="608049aefa2b8ae93c2c3a63-6245f06793b402a3d1097787" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fc8d84d5-b52b-4e30-aafb-dd9b60bd9773/Logo_Euronews_stacked_white_on_french_1500x1000.png" group-title="Mexico" , Euronews Français
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6245f06793b402a3d1097787.m3u8
@@ -1659,7 +1659,7 @@ https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6245f13093b402a3d1097789.m3u8
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6245cd154f27f4e9c76d67e9.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-66633339ebeb02ee8bd1597c" tvg-id="608049aefa2b8ae93c2c3a63-66633339ebeb02ee8bd1597c" tvg-logo="https://provider-static.plex.tv/epg/cms/production/27b7aa1f-d352-495f-a3f1-8ebb1218b3fe/FIFA_WHITE.png" group-title="Mexico" , FIFA+
-https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-66633339ebeb02ee8bd1597c.m3u8
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3995-66629c32346b86608532dbe7.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=sPAujbzWihJFSWhbqtNe
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-62ffc5cfa6cad6f2991745c2" tvg-id="608049aefa2b8ae93c2c3a63-62ffc5cfa6cad6f2991745c2" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png" group-title="Mexico" , FUEL TV
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-62ffc5cfa6cad6f2991745c2.m3u8
@@ -1671,13 +1671,13 @@ https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-5f170d62b898490041b4936e.m3u8
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-65ec577c39fd1025c2acd277.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-65e9d0ad8fe4ef7053c3c869" tvg-id="608049aefa2b8ae93c2c3a63-65e9d0ad8fe4ef7053c3c869" tvg-logo="https://provider-static.plex.tv/epg/cms/production/68708f25-5fbe-4553-8458-614df346dec2/Plex_FilmRise_SeriesGratis_Color_Logo.png" group-title="Mexico" , FilmRise Series Gratis
-https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-65e9d0ad8fe4ef7053c3c869.m3u8
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3995-65e9d0ad8fe4ef7053c3c869.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=sPAujbzWihJFSWhbqtNe
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-608b7094a09205002da4f291" tvg-id="608049aefa2b8ae93c2c3a63-608b7094a09205002da4f291" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f496c12b-d43f-4e47-95b7-f687763fa84f/FreeTVAccion_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Mexico" , FreeTV Acción
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-608b7094a09205002da4f291.m3u8
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-608b7095a09205002da4f295" tvg-id="608049aefa2b8ae93c2c3a63-608b7095a09205002da4f295" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f4639394-cbab-411c-9a11-3676a7310af0/FreeTVDrama_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Mexico" , FreeTV Drama
-https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-608b7095a09205002da4f295.m3u8
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3995-608b7095a09205002da4f295.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=U_JLx7AQbj_MAd9RcGWW
 
 #EXTINF:-1 channel-id="plex-608049aefa2b8ae93c2c3a63-6018913ea15130002b284193" tvg-id="608049aefa2b8ae93c2c3a63-6018913ea15130002b284193" tvg-logo="https://provider-static.plex.tv/epg/cms/production/956f7b44-59f4-4f55-8258-e274f2183b11/FreeTVEstelar_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Mexico" , FreeTV Estelar
 https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-6018913ea15130002b284193.m3u8
