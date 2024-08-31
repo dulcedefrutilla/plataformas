@@ -319,6 +319,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=773
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=775
 #EXTINF:-1,CHANNEL 779
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=779
+#EXTINF:-1,CHANNEL 781
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=781
 #EXTINF:-1,CHANNEL 805
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=805
 #EXTINF:-1,CHANNEL 823
@@ -329,6 +331,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=824
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=826
 #EXTINF:-1,CHANNEL 827
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=827
+#EXTINF:-1,CHANNEL 828
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=828
+#EXTINF:-1,CHANNEL 829
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=829
+#EXTINF:-1,CHANNEL 831
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=831
 #EXTINF:-1,CHANNEL 840
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=840
 #EXTINF:-1,CHANNEL 841
@@ -347,6 +355,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=850
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=851
 #EXTINF:-1,CHANNEL 852
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=852
+#EXTINF:-1,CHANNEL 855
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=855
 #EXTINF:-1,CHANNEL 858
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=858
 #EXTINF:-1,CHANNEL 859
@@ -1008,6 +1018,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2151
 #EXTINF:-1,CHANNEL 2152
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
 #EXTINF:-1,CHANNEL 2154
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+#EXTINF:-1,CHANNEL 2154
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
 #EXTINF:-1,CHANNEL 2160
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2160
@@ -1559,8 +1571,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2870
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2872
 
 
-#EXTINF:-1,RUNTIME
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+
 #EXTINF:-1,RUNTIME AÇÃO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 #EXTINF:-1,RUNTIME HUMOR
@@ -1609,16 +1620,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=921
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=920
 #EXTINF:-1,Nimbus Playout
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=857
-#EXTINF:-1,Nimbus Playout
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=855
-#EXTINF:-1,Nimbus Playout
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=831
-#EXTINF:-1,Nimbus Playout
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=829
-#EXTINF:-1,Nimbus Playout
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=828
-#EXTINF:-1,Nimbus Playout
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=781
+
+
+
+
 
 
 
