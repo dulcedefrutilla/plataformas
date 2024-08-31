@@ -1,11 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1,Nimbus Playout
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=30
+
 #EXTINF:-1,ottera.tv id=14
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=14
 #EXTINF:-1,ottera.tv id=23
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=23
+#EXTINF:-1,Nimbus Playout
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=30
 #EXTINF:-1,ottera.tv id=33
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=33
 #EXTINF:-1,ottera.tv id=34
