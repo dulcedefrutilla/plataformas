@@ -1,19 +1,19 @@
 #EXTM3U
 
 
-#EXTINF:-1, KOREAN CHANNEL
+#EXTINF:-1,CHANNEL 14
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=14
 #EXTINF:-1,CHANNEL 23
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=23
-#EXTINF:-1,Nimbus Playout
+#EXTINF:-1,CHANNEL 30
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=30
-#EXTINF:-1, TALKING TOM AND FRIENDS
+#EXTINF:-1,CHANNEL 33
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=33
 #EXTINF:-1,CHANNEL 34
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=34
 #EXTINF:-1,CHANNEL 35
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=35
-#EXTINF:-1, TALKING TOM AND FRIENDS
+#EXTINF:-1,CHANNEL 37
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=37
 #EXTINF:-1,CHANNEL 40
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=40
@@ -203,6 +203,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=469
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=476
 #EXTINF:-1,CHANNEL 480
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=480
+#EXTINF:-1,CHANNEL 509
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=509
 #EXTINF:-1,CHANNEL 514
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
 #EXTINF:-1,CHANNEL 541
@@ -219,6 +221,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=549
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=552
 #EXTINF:-1,CHANNEL 560
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=560
+#EXTINF:-1,CHANNEL 566
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=566
 #EXTINF:-1,CHANNEL 569
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=569
 #EXTINF:-1,CHANNEL 574
@@ -465,6 +469,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=981
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=985
 #EXTINF:-1,CHANNEL 986
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=986
+#EXTINF:-1,CHANNEL 1008
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1008
 #EXTINF:-1,CHANNEL 1009
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1009
 #EXTINF:-1,CHANNEL 1028
@@ -1545,8 +1551,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2867
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2870
 #EXTINF:-1,CHANNEL 2872
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2872
-#EXTINF:-1,REAL AMERICA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1008
+
+
 #EXTINF:-1,RUNTIME
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 #EXTINF:-1,RUNTIME AÇÃO
@@ -1613,7 +1619,5 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=779
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=683
 #EXTINF:-1,Nimbus Playout
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=679
-#EXTINF:-1,Nimbus Playout
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=566
-#EXTINF:-1,Nimbus Playout
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=509
+
+
