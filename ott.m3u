@@ -1,64 +1,5 @@
 #EXTM3U
-#EXTINF:-1,BUZZR
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1023
-#EXTINF:-1,cheddar news
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=102
-#EXTINF:-1,CJC
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1024
-#EXTINF:-1,GRID
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1026
-#EXTINF:-1,MA MotoAmerica
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1062
-#EXTINF:-1,MOTORVISION
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
-#EXTINF:-1,NEWSMAX
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1007
-#EXTINF:-1,Nimbus Playout
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2718
-#EXTINF:-1,Nimbus Playout
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2716
-#EXTINF:-1,Nimbus Playout
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2715
-#EXTINF:-1,Nimbus Playout
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2713
-#EXTINF:-1,Nimbus Playout
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2122
-#EXTINF:-1,Nimbus Playout
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2120
-#EXTINF:-1,Nimbus Playout
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1886
-#EXTINF:-1,Nimbus Playout
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1884
-#EXTINF:-1,Nimbus Playout
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=965
-#EXTINF:-1,Nimbus Playout
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=964
-#EXTINF:-1,Nimbus Playout
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=921
-#EXTINF:-1,Nimbus Playout
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=920
-#EXTINF:-1,Nimbus Playout
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=857
-#EXTINF:-1,Nimbus Playout
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=855
-#EXTINF:-1,Nimbus Playout
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=831
-#EXTINF:-1,Nimbus Playout
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=829
-#EXTINF:-1,Nimbus Playout
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=828
-#EXTINF:-1,Nimbus Playout
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=781
-#EXTINF:-1,Nimbus Playout
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=779
-#EXTINF:-1,Nimbus Playout
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=683
-#EXTINF:-1,Nimbus Playout
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=679
-#EXTINF:-1,Nimbus Playout
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=566
-#EXTINF:-1,Nimbus Playout
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=509
+
 #EXTINF:-1,Nimbus Playout
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=30
 #EXTINF:-1,ottera.tv id=14
@@ -1619,3 +1560,59 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1027
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
 #EXTINF:-1,yahoo!
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1044
+#EXTINF:-1,BUZZR
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1023
+#EXTINF:-1,cheddar news
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=102
+#EXTINF:-1,CJC
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1024
+#EXTINF:-1,GRID
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1026
+#EXTINF:-1,MA MotoAmerica
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1062
+#EXTINF:-1,MOTORVISION
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
+#EXTINF:-1,NEWSMAX
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1007
+#EXTINF:-1,FIGHT NETWORK
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2718
+#EXTINF:-1,TNA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2716
+#EXTINF:-1,FIGHT NETWORK
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2715
+#EXTINF:-1,TNA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2713
+#EXTINF:-1,TNA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1886
+#EXTINF:-1,Nimbus Playout
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1884
+#EXTINF:-1,Nimbus Playout
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=965
+#EXTINF:-1,TNA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=964
+#EXTINF:-1,Nimbus Playout
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=921
+#EXTINF:-1,TNA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=920
+#EXTINF:-1,Nimbus Playout
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=857
+#EXTINF:-1,Nimbus Playout
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=855
+#EXTINF:-1,Nimbus Playout
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=831
+#EXTINF:-1,Nimbus Playout
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=829
+#EXTINF:-1,Nimbus Playout
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=828
+#EXTINF:-1,Nimbus Playout
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=781
+#EXTINF:-1,Nimbus Playout
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=779
+#EXTINF:-1,Nimbus Playout
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=683
+#EXTINF:-1,Nimbus Playout
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=679
+#EXTINF:-1,Nimbus Playout
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=566
+#EXTINF:-1,Nimbus Playout
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=509
