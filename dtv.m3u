@@ -433,7 +433,7 @@ http://181.78.20.119:8002/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/800px-Telemax_Argentina_%282018%29.png" group-title="Noticias", Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="COLOMBIA", Cablenoticias
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="Noticias", Cablenoticias
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 
 
