@@ -269,8 +269,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=648
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
 #EXTINF:-1,CHANNEL 658
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=658
+#EXTINF:-1,CHANNEL 679
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=679
 #EXTINF:-1,CHANNEL 681
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=681
+#EXTINF:-1,CHANNEL 689
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=683
 #EXTINF:-1,CHANNEL 689
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=689
 #EXTINF:-1,CHANNEL 692
@@ -1615,9 +1619,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=828
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=781
 #EXTINF:-1,Nimbus Playout
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=779
-#EXTINF:-1,Nimbus Playout
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=683
-#EXTINF:-1,Nimbus Playout
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=679
+
+
 
 
