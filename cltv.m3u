@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/17nlvY7TZkJ8JxLV8EsRrJ/165f3a1fe19f6db1c390c3dc6423ad66/CC_canal-7.png?fm=webp&q=80" group-title="locales" , CANAL DE LA CIUDAD
-http://181.191.140.2:8000/play/a0hw/index.m3u8
+http://181.209.114.13:8000/play/a06e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5yCPV36WLATWGEgkWv6h3D/5cc84285f9792100a4444091ddd3999b/07_BRAVO-TV-entretenimiento.png?fm=webp&q=80" group-title="Nacionales" , BRAVO TV
 
@@ -56,7 +56,7 @@ https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 https://ythls-v3.onrender.com/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8 
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3McziTZ5M5VJkRn4IBIPAh/53add865f835209e59decf37bacb705e/Metro.png?fm=webp&q=80" group-title="Nacionales" , METRO
-http://181.191.140.2:8000/play/a0g0/index.m3u8
+http://181.209.114.13:8000/play/a02g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2cxt3hOO4yflyPkLMD1564/7a815a1bd70c3001b1ef24010af5d6bd/canal-ciudad-magazine.png?fm=webp&q=80" group-title="Nacionales" , Ciudad Magazine
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
@@ -207,7 +207,7 @@ http://45.71.252.16:8000/play/a0a8/index.m3u8
 http://190.11.130.46/mnp/telemundo/output.mpd
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/Mq0oDJsOGLGwmqR3jljjd/3b623163d3192f59a41720d0418c2813/canal-volver.png?fm=webp&q=80" group-title="Entretenimiento" , VOLVER
-http://181.191.140.2:8000/play/a0fp/index.m3u8
+http://181.209.114.13:8000/play/a021/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7jOLhFfEgvIJD81fcVjRpD/95fddfd8e7b896ea3dca3c6ee63fbe42/62_TVE.png?fm=webp&q=80" group-title="Entretenimiento" , TVE
 http://45.71.252.16:8000/play/a09o/index.m3u8
