@@ -323,13 +323,13 @@ http://190.11.130.46/mnp/disc_world/output.mpd
 http://190.11.130.46/mnp/natgeohd/output.mpd
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3NsCKLtHpJcpAj6pL0prur/7200b9d1e8851a5d5327269cba3bfabb/94_History2.png?fm=webp&q=80" group-title="Culturales" , History 2 
-http://181.191.140.2:8000/play/a0g3/index.m3u8
+http://190.11.130.46/mnp/h2/output.mpd
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/32n20IZvi60FVhckqjnhrT/16696255515e884f71a729171f33895c/95_History.png?fm=webp&q=80" group-title="Culturales" , History  
 http://190.11.130.46/mnp/history/output.mpd
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3YRH1ARFHgPzmkpxYvdyYb/46d00e2d0c56fb9d172668de72f86b54/27_Metro.png?fm=webp&q=80" group-title="Culturales" , CANAL A 
-http://181.191.140.2:8000/play/a0ft/index.m3u8
+http://181.209.114.13:8000/play/a09j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6AxsQaLOHP3xwHmicPTuTF/ff3c5c8494751d34459b466b30640de3/10_Rural.png?fm=webp&q=80" group-title="Varios" , CANAL Rural
 https://streamlovcd1.alsolnet.com/elrural/live/playlist.m3u8
@@ -383,7 +383,7 @@ https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 http://45.5.117.182:8000/play/a0ci/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6bFkcbsklRXLeB2ajrnCl8/c5ccbf53c3ab168c6448fb76265d5778/canal-quiero-musica.png?fm=webp&q=80" group-title="Musica" , Quiero Música
-http://181.191.140.2:8000/play/a0g8/index.m3u8
+http://181.209.114.13:8000/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/1DblwFFbxHwdhBQSGMOLou/f556b80bb9004ebd325b9830323a17c7/113_CanaldelaMusica.png?fm=webp&q=80" group-title="Musica" , CM
 https://g5.proy-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
