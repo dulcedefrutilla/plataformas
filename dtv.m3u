@@ -332,13 +332,13 @@ http://190.11.130.46/mnp/fox_sport2/output.mpd
 http://190.11.130.46/mnp/fox_sport3/output.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaVY6YiObIsLLJ5kycMhk_nvb2TviId7FDpg&s" group-title="Deportes", DSPORTS
-http://home-playtv.com:8080/miralatin2243/JJKTU/158511
+http://magmas5.com:8000/gooodseerveriptv/X7MY8691HH/145400
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaVY6YiObIsLLJ5kycMhk_nvb2TviId7FDpg&s" group-title="Deportes", DSPORTS 2
-http://iptvtree.net:8080/adastream2023/Bye5XZwQ8d5Cbs5/31645
+http://magmas5.com:8000/gooodseerveriptv/X7MY8691HH/145402
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaVY6YiObIsLLJ5kycMhk_nvb2TviId7FDpg&s" group-title="Deportes", DSPORTS +
-http://home-playtv.com:8080/miralatin2243/JJKTU/158506
+http://magmas5.com:8000/gooodseerveriptv/X7MY8691HH/145403
 
 #EXTINF:-1 tvg-id="ar#espn" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="Deportes", ESPN
 http://181.78.27.128:8000/play/a03q/index.m3u8
