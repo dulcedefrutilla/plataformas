@@ -18,6 +18,8 @@ http://181.209.114.13:8000/play/a01s/index.m3u8
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png" group-title="LOCALES", A24
 http://190.11.130.46/mnp/a24/output.mpd
 
+#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-CNNEsp.png" tvg-language="Spanish" group-title="Nacionales", CNN en Español
+http://190.11.130.46/mnp/cnn/output.mpd
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="LOCALES", Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8 
@@ -79,6 +81,12 @@ http://190.11.130.46/mnp/espn_extra/output.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_AM-sports-2019.svg/796px-Logo_AM-sports-2019.svg.png" group-title="Deportes", AM Sports
 http://181.209.114.13:8000/play/a01v/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="Deportes", ESPN Premium 
+http://181.209.114.13:8000/play/a078/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TNTSports.png" group-title="Deportes", TNT Sports 
+http://181.209.114.13:8000/play/a02u/index.m3u8 
+
 #EXTINF:-1 tvg-id="Golf.Channel.(Latin.America).(GOLF).ar" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/118-GolfChannel.png" group-title="Deportes", Golf Channel
 http://190.11.130.46/mnp/golf/output.mpd
 
@@ -86,11 +94,7 @@ http://190.11.130.46/mnp/golf/output.mpd
 http://190.11.130.46/mnp/garage/output.mpd
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="Deportes", ESPN Premium 
-http://45.5.151.151:8000/play/a0fe/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TNTSports.png" group-title="Deportes", TNT Sports 
-http://45.5.151.151:8000/play/a002/index.m3u8
 
 
 
