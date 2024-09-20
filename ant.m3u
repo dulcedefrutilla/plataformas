@@ -3,28 +3,28 @@
 
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png" group-title="Nacionales", A24
-http://190.11.130.46/mnp/a24/output.mpd
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
 #EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-C5N.png" group-title="Nacionales", C5N
-http://190.11.130.46/mnp/c5n/output.mpd
+http://181.78.27.128:8000/play/a009/index.m3u8
 
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Cronica.png" group-title="Nacionales", Cronica HD
-http://190.11.130.46/mnp/cronica/output.mpd
+http://181.78.27.128:8000/play/a055/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal26.png" group-title="Nacionales", Canal 26
-http://190.11.130.46/mnp/canal26/output.mpd
+http://45.5.151.151:8000/play/a0e1/index.m3u8
 
 #EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="Nacionales", La Nación +
-http://181.209.114.13:8000/play/a01s/index.m3u8
+http://181.13.173.86:8000/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TN.png" group-title="Nacionales", TN
-http://190.11.130.46/mnp/tn/output.mpd
+https://ythls.kekikakademi.org/youtube/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
 
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-CiudadMagazine.png" group-title="Nacionales", Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-America.png" group-title="Nacionales", America
-http://190.11.130.46/mnp/america/output.mpd
+https://github.com/mortal251/archivos_m3u8/raw/main/america_hls.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="Nacionales", Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8 
@@ -36,19 +36,19 @@ https://g3.proy-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-2000
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Nueve.png" group-title="Nacionales", El Nueve
-http://190.11.130.46/mnp/elnueve/output.mpd
+http://187.102.208.83:50000/play/a04m/index.m3u8
 
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Net.png" group-title="Nacionales", Net TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Encuentro.png" audio-track="spa"  group-title="Nacionales", Encuentro
-http://190.11.130.46/mnp/encuentro/output.mpd
+http://181.78.27.128:8000/play/a04t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gr5NLZ4T3dJdykoSJzHsVjNwv4aXgcDCm5hitLmG-eOmOhtlieUoTJufQrCRS-jhy74=w240-h480" group-title="Entretenimiento", Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/Mq0oDJsOGLGwmqR3jljjd/3b623163d3192f59a41720d0418c2813/canal-volver.png?fm=webp&q=80" group-title="Entretenimiento" , VOLVER
-http://181.209.114.13:8000/play/a021/index.m3u8
+http://181.13.173.86:8000/play/a021/index.m3u8
 
 
 
