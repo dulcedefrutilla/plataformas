@@ -391,7 +391,7 @@ http://181.13.173.86:8000/play/a06h/index.m3u8
 
 
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-CNNEsp.png" tvg-language="Spanish" group-title="Noticias", CNN en Español
-http://190.11.130.46/mnp/cnn/output.mpd
+http://181.13.173.86:8000/play/a0ab/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/cnn@2x.png" group-title="Noticias", CNN
 https://rakuten-cnninternational-1-gb.lg.wurl.tv/playlist.m3u8
@@ -403,25 +403,25 @@ http://187.102.208.83:50000/play/a02y/index.m3u8
 http://187.102.208.83:50000/play/a02z/index.m3u8
 
 #EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="Noticias", La Nación +
-http://181.209.114.13:8000/play/a01s/index.m3u8
+http://181.13.173.86:8000/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TN.png" group-title="Noticias", TN
-http://190.11.130.46/mnp/tn/output.mpd
+https://ythls.kekikakademi.org/youtube/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
 
 #EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-C5N.png" group-title="Noticias", C5N
-http://190.11.130.46/mnp/c5n/output.mpd
+http://181.78.27.128:8000/play/a009/index.m3u8
 
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Cronica.png" group-title="Noticias", Cronica HD
-http://190.11.130.46/mnp/cronica/output.mpd
+http://181.78.27.128:8000/play/a055/index.m3u8
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png" group-title="Noticias", A24
-http://190.11.130.46/mnp/a24/output.mpd
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal26.png" group-title="Noticias", Canal 26
-http://190.11.130.46/mnp/canal26/output.mpd
+http://45.5.151.151:8000/play/a0e1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/IP_NOTICIAS.jpg" group-title="Noticias", IP Noticias
-http://190.11.130.46/mnp/ip/output.mpd
+http://181.78.27.128:8000/play/a055/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/4Pdlm_CqA7QH1YapYrh5qEwiwgeg6lSZ1rwaBAL57gPJS3yxzQT3bHLihVRx6Y6-A4LFnGsXJg=s176-c-k-c0x00ffffff-no-rj" group-title="Noticias", Chacra TV
 https://s8.stweb.tv/chacra/live/playlist.m3u8
@@ -435,9 +435,8 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="Noticias", Cablenoticias
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="Noticias", Rural TV
-http://190.11.130.46/mnp/rural/output.mpd
+http://181.13.173.86:8000/play/a02f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.construirtv.com/wp-content/uploads/2020/03/Logo_300.png" group-title="Culturales", Construir TV
 http://190.11.130.46/mnp/construiriptv/output.mpd
@@ -455,28 +454,28 @@ http://190.11.130.46/mnp/construiriptv/output.mpd
 
 
 #EXTINF:-1 tvg-id="NationalGeographicSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Natgeo.png" audio-track="spa" group-title="Culturales", National Geographic
-http://190.11.130.46/mnp/natgeohd/output.mpd
+http://181.13.173.86:8000/play/a0al/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Discovery.png" audio-track="spa" group-title="Culturales", Discovery Channel
-http://190.11.130.46/mnp/discovery/output.mpd
+http://181.13.173.86:8000/play/a07i/index.m3u8
 
 #EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-AnimalPlanet.png" audio-track="spa" group-title="Culturales", Animal Planet
 http://45.5.117.182:8000/play/a0hu/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTurbo.png" audio-track="spa" group-title="Culturales", Discovery Turbo
-http://190.11.130.46/mnp/dsc_turbo/output.mpd
+http://181.13.173.86:8000/play/a01w/index.m3u8
 
 #EXTINF:-1 tvg-id="TLC.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTLC.png" tvg-description="Cultural" audio-track="spa" group-title="Culturales", Discovery TLC
-http://190.11.130.46/mnp/dsc_tlc/output.mpd
+http://181.78.27.128:8000/play/a03u/index.m3u8
 
 #EXTINF:-1 tvg-id="HistorySouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-History.png" audio-track="spa" group-title="Culturales", History
-http://190.11.130.46/mnp/history/output.mpd
+http://181.13.173.86:8000/play/a0aj/index.m3u8
 
 #EXTINF:-1 tvg-id="History2Panregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-History2.png" audio-track="spa" group-title="Culturales", History 2
 http://bantel-cdn1.iptvperu.tv:1935/cdnygz/History2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FilmandArts.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png" group-title="Culturales", Film & Arts HD
-http://190.11.130.46/mnp/filmsarts/output.mpd
+http://181.13.173.86:8000/play/a030/index.m3u8
 
 
 
