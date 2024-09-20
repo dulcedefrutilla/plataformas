@@ -11,7 +11,7 @@ http://181.209.114.13:8000/play/a06e/index.m3u8
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7582OR45uswFne9WSFDuv8/fb447b4c508470938f346b4f5a05917a/02_America.png?fm=webp&q=80" group-title="Nacionales" , AMERICA TV
-http://190.11.130.46/mnp/america/output.mpd
+https://github.com/mortal251/archivos_m3u8/raw/main/america_hls.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/4Dyn70sIkPArFytOILfyOw/b197e03db0d6bdd5868966f23bd0a88d/03_Telefe.png?fm=webp&q=80" group-title="Nacionales" , TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8  
@@ -20,28 +20,28 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 https://g3.proy-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6P3cAVk7GNmmuj0S16nCnb/a88ae2224ef75d7d31597ec2cffdc7c6/12_canal-9.png?fm=webp&q=80" group-title="Nacionales" , El Nueve
-http://190.11.130.46/mnp/elnueve/output.mpd
+http://187.102.208.83:50000/play/a04m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7v21fUf1ohsZC8dAioaBTU/1aff791f15e4d84c246e644c06494899/13_canal-13.png?fm=webp&q=80" group-title="Nacionales" , El Trece
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/P9DSwbBtpDc64qzkkvaVy/1f341a80ea6da24308d5fe5dd3f610a0/14_canal-todo-noticias.png?fm=webp&q=80" group-title="Nacionales" , Todo Noticias
-http://190.11.130.46/mnp/tn/output.mpd
+https://ythls.kekikakademi.org/youtube/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/1EzjHrOUp9kFWVibh33PBx/24e13bd53138b4aa07e5bc88517b888b/05_America24.png?fm=webp&q=80" group-title="Nacionales" , A24
-http://190.11.130.46/mnp/a24/output.mpd
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3bv68hDHnpg1gktGn6qdKS/03fd84d75e4bf52c25e76e89cfef9d5d/06_C5N.png?fm=webp&q=80" group-title="Nacionales" , C5N 
-http://190.11.130.46/mnp/c5n/output.mpd
+http://181.78.27.128:8000/play/a009/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/cA702Z8R51jE9iHCMRUNQ/22dac305e0bd1e2b8de00c05280611f4/07_Cronica.png?fm=webp&q=80" group-title="Nacionales" , Cronica
-http://190.11.130.46/mnp/cronica/output.mpd
+http://181.78.27.128:8000/play/a055/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="Nacionales" , LA NACION
-http://181.209.114.13:8000/play/a01s/index.m3u8
+http://181.13.173.86:8000/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5l4mX6T5S99MoV24ss1vT2/3788b94142ed98b2e3b5fb200fc0acf4/15_informacion_periodistica.png?fm=webp&q=80" group-title="Nacionales", IP
-http://190.11.130.46/mnp/ip/output.mpd
+http://181.78.27.128:8000/play/a055/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/44c39L5vrAJMmitx6stmVN/aada5123e58530c834a4715aafce63e8/20_CANAL-26-noticias.png?fm=webp&q=80" group-title="Nacionales" , CANAL 26
 http://190.11.130.46/mnp/canal26/output.mpd
