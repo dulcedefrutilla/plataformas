@@ -474,7 +474,7 @@ http://181.78.27.128:8000/play/a03u/index.m3u8
 http://181.13.173.86:8000/play/a0aj/index.m3u8
 
 #EXTINF:-1 tvg-id="History2Panregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-History2.png" audio-track="spa" group-title="Culturales", History 2
-http://45.166.92.22:58001/play/a05s/index.m3u8
+http://181.78.109.49:8000/play/a03k/index.m3u8
 
 #EXTINF:-1 tvg-id="FilmandArts.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png" group-title="Culturales", Film & Arts HD
 http://181.13.173.86:8000/play/a030/index.m3u8
