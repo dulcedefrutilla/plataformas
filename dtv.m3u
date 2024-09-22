@@ -429,7 +429,7 @@ http://181.78.27.128:8000/play/a055/index.m3u8
 https://s8.stweb.tv/chacra/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://intn24.lalr.co/img/post-default.png" group-title="Noticias", NTN 24
-http://181.78.20.119:8002/play/a01l/index.m3u8
+http://186.148.195.206:8000/play/a02m/index.m3u8
 
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/800px-Telemax_Argentina_%282018%29.png" group-title="Noticias", Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
