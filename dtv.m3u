@@ -502,7 +502,7 @@ http://45.176.232.106:45000/play/a086/index.m3u8
 http://187.102.208.83:50000/play/a05b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5MadD8WPFjcQeZ13wKAcMKz-D4GgKEi3fIQ&s" group-title="Internacionales", RCN
-http://181.78.20.119:8002/play/a01q/index.m3u8
+http://181.78.4.186:8000/play/a0g6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5MadD8WPFjcQeZ13wKAcMKz-D4GgKEi3fIQ&s" group-title="Internacionales", GLOBO
 http://181.78.27.128:8000/play/a068/index.m3u8
