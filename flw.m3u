@@ -225,7 +225,7 @@ http://181.13.173.86:8000/play/a0as/index.m3u8
 http://181.13.173.86:8000/play/a0ar/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#axn" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-AXN.png" audio-track="spa" group-title="Entretenimiento", AXN
-http://190.11.130.46/mnp/axn/output.mpd
+http://181.13.173.86:8000/play/a0a8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3Q4Kcrs1ArtiZ3dA4QCCFW/7872da4c0f5bcc4bd5ca0f95041d7f1d/59_StudioUniversal.png?fm=webp&q=80" group-title="Entretenimiento" , Studio Universal
 http://45.71.252.16:8000/play/a0a8/index.m3u8
