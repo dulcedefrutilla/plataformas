@@ -291,7 +291,7 @@ http://181.78.27.128:8000/play/a03u/index.m3u8
 http://45.177.53.7:8000/play/a0jm/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="Varios", Rural TV
-https://streamlovcd1.alsolnet.com/elrural/live/playlist.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCPumJ2ayrr-JDsA9JDCUDDQ.m3u8 
 
 #EXTINF:-1 tvg-logo="https://viajartv.tv/wp-content/uploads/2018/05/logo-viajar-new.png" group-title="Varios", Viajar
 https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
