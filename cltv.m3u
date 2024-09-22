@@ -35,7 +35,7 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 http://181.78.27.128:8000/play/a009/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/cA702Z8R51jE9iHCMRUNQ/22dac305e0bd1e2b8de00c05280611f4/07_Cronica.png?fm=webp&q=80" group-title="Nacionales" , Cronica
-http://181.78.27.128:8000/play/a055/index.m3u8
+http://181.78.27.128:8000/play/a04k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="Nacionales" , LA NACION
 http://181.13.173.86:8000/play/a01s/index.m3u8
