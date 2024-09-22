@@ -236,7 +236,7 @@ http://181.13.173.86:8000/play/a02x/index.m3u8
 http://181.13.173.86:8000/play/a024/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3YoPUcjcrgs25FVGqJd5R2/79f67e8e24034d93ea3093168ac03a63/72_RCNNovelas.png?fm=webp&q=80" group-title="Entretenimiento" , RCN Novelas
-http://45.71.252.16:8000/play/a0ay/index.m3u8
+http://45.176.232.106:45000/play/a01u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/dxjEQOGHXp4wEckENKXFT/f525dcd5d21914ca2c54cbebabf62cb1/75_CanalClaroHD.png?fm=webp&q=80" group-title="Entretenimiento", Canal Claro
 http://38.43.151.206:8000/play/a05x/index.m3u8
@@ -408,7 +408,7 @@ http://45.5.117.182:8000/play/a0ie/index.m3u8
 http://45.5.117.182:8000/play/a0f2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/FgFGNa1nlJe1421Gml6tS/973fd196608694bb8250967c8dd026c9/120_NickMusic.png?fm=webp&q=80" group-title="Musica" , Nick Music
-http://45.179.164.30:8000/play/a012/index.m3u8
+http://186.148.195.206:8000/play/a01t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/QYsFZTANMLqngS1NuqlDV/2d74d66512950c64c662bdf3be99ee7f/121_HTV.png?fm=webp&q=80" group-title="Musica" , HTV
 http://186.189.222.205:1993/play/023/index.m3u8
