@@ -399,7 +399,7 @@ http://181.13.173.86:8000/play/a02m/index.m3u8
 http://45.5.117.182:8000/play/a0f1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2G4IHnfxSj2GwTRpmR53wy/7ee34ba27d8dab44e2dddd82b16aca9f/558-mtv_00s.png?fm=webp&q=80" group-title="Musica" , MTV 00's
-http://45.5.117.182:8000/play/a0gk/index.m3u8
+http://190.211.102.42:4000/play/a04g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/CgwggygXgjsIHg6swkMw6/ca9e373606cd48f2d40d8a937ec686ba/116_MTVLive.png?fm=webp&q=80" group-title="Musica" , MTV Live
 http://45.5.117.182:8000/play/a0ie/index.m3u8
