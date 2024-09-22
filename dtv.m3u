@@ -227,7 +227,7 @@ https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/tracks-v3a1/mo
 http://181.13.173.86:8000/play/a07b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3Q4Kcrs1ArtiZ3dA4QCCFW/7872da4c0f5bcc4bd5ca0f95041d7f1d/59_StudioUniversal.png?fm=webp&q=80" group-title="Cine" , Studio Universal
-http://45.71.252.16:8000/play/a0a8/index.m3u8
+http://181.176.153.106:8090/play/a0ez/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#cinemax-sur" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinemax.png" audio-track="spa" group-title="Cine", Cinemax
 http://181.78.27.128:8000/play/a031/index.m3u8
