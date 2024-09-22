@@ -359,5 +359,5 @@ http://186.148.195.206:8000/play/a00a/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/unife.png" group-title="Nacionales", UNIFE 
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/f512804f6e6641e38106a47f681cfffa/chunklist_b4628000.m3u8?p=79&s=1694000298&e=1694000418&h=39bea3dca2e5ba6c6e0fcda0b14067b8
+#EXTINF:-1 tvg-logo="-logo="https://play-lh.googleusercontent.com/Wt94ulT522DHedSNj6m-PCw3tWpBMN7LF0VhIslu4x1-udZ9CtMUrHpFQZQ-U97HPIY=w240-h480" group-title="Nacionales", UNIFE 
+https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
