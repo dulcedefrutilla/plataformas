@@ -341,7 +341,7 @@ http://181.13.173.86:8000/play/a09j/index.m3u8
 http://181.13.173.86:8000/play/a030/index.m3u8
 
 #EXTINF:-1 tvg-id="History2Panregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-History2.png" audio-track="spa" group-title="Culturales", History 2
-http://45.166.92.22:58001/play/a05s/index.m3u8
+http://181.78.109.49:8000/play/a03k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2Epkdd93g9ercbqDzKQFoe/36c820d026574873c07232d83a9e9cd1/89_DiscoveryScience.png?fm=webp&q=80" group-title="Culturales" , Discovery Science 
 http://181.13.173.86:8000/play/a02k/index.m3u8
