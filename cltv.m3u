@@ -89,7 +89,7 @@ http://181.78.27.128:8000/play/a02d/index.m3u8
 http://181.78.27.128:8000/play/a03f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariano2718/icons/main/ESPN%204.jpg" group-title="Deportes",ESPN 4
-http://181.78.27.128:8000/play/a04b/index.m3u8
+http://181.13.173.86:8000/play/a076/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/4ldZDRBks3tZobn7OFbJFv/0e8234bc1152282a4a9fc544d5c672c0/Fox-Sports.png?fm=webp&q=80" group-title="Deportes" , Fox Sports
 http://181.78.27.128:8000/play/a062/index.m3u8
